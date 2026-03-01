@@ -1,0 +1,5 @@
+{
+  "name": "GameCraft AI Agent System",
+  "description": "A production-grade multi-agent system that transforms vague ideas into playable browser games using structured planning and automated building.",
+  "requestFramePermissions": []
+}

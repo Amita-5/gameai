@@ -1,0 +1,6 @@
+@google/genai
+lucide-react
+motion
+react
+react-dom
+vite
